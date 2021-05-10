@@ -1,0 +1,23 @@
+Test 1: Introduction et Notion de Base (langage Kotlin) .
+
+Test 2: Les Layouts et Les Listes.
+
+Test 3: La communication entre composants (Intent).
+
+Test 4: Bundle et Cycle de Vie.
+
+Test 5: Les Fragments.
+
+Test 6: Les Fichiers et Stockage.
+
+Test 7: Stockage et SQLite.
+
+
+
+
+
+
+
+
+
+
